@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Class Attendance</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_validate_bar_code_result">ValidateBarCodeResult</string>
+    <string name="api_url">http://attendance.desiretechnologies.com</string>
+    <string name="title_activity_mark_attendance">MarkAttendance</string>
+    <string name="title_activity_admin_login">AdminLogin</string>
+    <string name="title_activity_admin_dashboard">Dashboard</string>
+</resources>

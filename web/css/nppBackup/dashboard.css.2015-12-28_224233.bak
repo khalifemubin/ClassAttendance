@@ -1,0 +1,153 @@
+#dashboard_title
+{
+	color:red;
+}
+
+.divClr{
+	clear:both;
+}
+
+.divLeft{
+	float:left;
+}
+
+.divError{
+	width:30%; 
+	margin:0 auto;
+	border:1px solid red;
+	font-size:20px;
+	text-align:center;
+	color:red;
+	display:none;
+}
+
+.no_records_found
+{
+	width:90%;
+	font-weight:bold;
+	font-size:20px;
+	display:none;
+}
+
+.parentForDivRightAlign
+{
+	text-align:center;	
+}
+
+.divLeftOfRight
+{
+	width:95%;
+	display:inline-block;
+}
+
+.divRightOfRight
+{
+	display:inline-block;
+}
+
+.div_add_edit
+{	
+	display:none;	
+}
+
+.cellSelect
+{
+	width:100%;
+}
+
+.madatory_mark
+{
+	color:red;
+}
+
+.child_top_align
+{
+	margin: auto !important;
+	top:0 !important;
+}
+
+.top_align_child
+{
+	vertical-align:top !important;
+}
+
+.top_align_child_input
+{
+	float:left;
+	margin-top:1% !important;
+	margin-bottom:1% !important;
+	width:98%;
+}
+
+.small_input
+{
+	float:left !important;
+	width:15%;
+}
+
+.normal_input
+{
+	float:left !important;
+	width:98%;
+}
+
+.small_tip
+{
+	float:left !important;
+	font-size:11px !important;
+	margin-top:2%;
+	margin-left:2%;
+}
+
+/*css for div based table starts*/
+.Table
+{
+display: table;
+}
+
+.Title
+{
+display: table-caption;
+text-align: center;
+font-weight: bold;
+font-size: larger;
+}
+
+
+.Heading
+{
+display: table-row;
+font-weight: bold;
+text-align: center;
+}
+.Row
+{
+display: table-row;
+text-align:center;
+}
+.Cell
+{
+display: table-cell;
+border: solid;
+border-width: thin;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+/*css for div based table ends*/
+
+
+.user_master_tbl
+{
+	width:100%;	
+}
+
+#edit_records
+{	
+	margin:0 45% 0 45%;
+}
+
+#divRecordErrMsg
+{
+	width:80%;
+}

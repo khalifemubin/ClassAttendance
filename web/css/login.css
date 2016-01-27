@@ -1,0 +1,73 @@
+
+#login_box{
+	width:30%; 
+	margin:5% auto;
+	/*border:1px solid #1c1c1c;*/
+	font-family:Arial, Verdana;
+	font-size:20px;
+	text-align:center;
+}
+
+.divError{
+	width:30%; 
+	margin:0 32% auto;
+	border:1px solid red;
+	font-size:20px;
+	text-align:center;
+	color:red;
+	display:none;
+}
+
+#login_box_title
+{
+	margin:0 !important;
+	font-weight:bold;
+}
+
+.divClr{
+	clear:both;
+}
+
+.Table
+{
+display: table;
+}
+
+.Title
+{
+display: table-caption;
+text-align: center;
+font-weight: bold;
+font-size: larger;
+}
+
+
+.Heading
+{
+display: table-row;
+font-weight: bold;
+text-align: center;
+}
+.Row
+{
+display: table-row;
+text-align:center;
+}
+.Cell
+{
+display: table-cell;
+border: solid;
+border-width: thin;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+#btnLogin
+{
+	text-align:center;
+	margin: 0 auto !important;
+	position:relative;
+	display: table-cell;
+	border: solid;
+	border-width: thin;
+}
