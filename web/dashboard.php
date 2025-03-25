@@ -15,7 +15,8 @@
 <head>  
   <title>Attendance :: Administration Page - Welcome</title>
   <link rel="stylesheet" href="jquery-ui/jquery-ui.css">
-  <script src="js/jquery-1.10.2.js"></script>
+  <!--<script src="js/jquery-1.10.2.js"></script>-->
+  <script src="js/jquery-3.7.1.min.js"></script>
   <script src="jquery-ui/jquery-ui.js"></script>
   
   <!--Loader Source (http://demos.mimiz.fr/jquery/loader) -->
