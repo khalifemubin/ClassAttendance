@@ -14,7 +14,8 @@
   <title>Attendance :: Administration</title>
   <link rel="stylesheet" href="css/login.css">
   
-  <script src="js/jquery-1.10.2.js"></script>
+  <!--<script src="js/jquery-1.10.2.js"></script>-->
+  <script src="js/jquery-3.7.1.min.js"></script>
   <script>  
   String.prototype.fulltrim=function(){return this.replace(/(?:(?:^|\n)\s+|\s+(?:$|\n))/g,'').replace(/\s+/g,' ');}
   $(document).ready(function() {
